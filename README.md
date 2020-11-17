@@ -1,2 +1,2 @@
-# CRUD-MVC-Dotnet
-CRUD operations app using asp.net core framework
+# TodoAPI
+CRUD operations app using asp.net core WebAPI
